@@ -1,0 +1,8 @@
+@font-face {
+  font-family: sitelen-pona;
+  src: url(font/linja-pona-4.9.otf);
+}
+
+span.sitelen-pona {
+  font-family: sitelen-pona;
+}
